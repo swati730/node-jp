@@ -1,5 +1,6 @@
 ---
 language: node_js
+build_environment: ubuntu1304
 node_js:
 - '0.11'
 - '0.10'
