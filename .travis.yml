@@ -13,7 +13,7 @@ script:
 
 notifications:
   email:
-  - crvidya@ymail.com
+  - swati@shippable.com
 
 env:
   global:
